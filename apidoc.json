@@ -1,0 +1,7 @@
+{
+	"name": "coins",
+	"version": "0.1.0",
+	"description": "Documentación API. Todos los EndPoinst (a excepción del login y crear-usuario) requieren Bearer Token.",
+	"title": "Coins",
+	"url" : "http://localhost:3003/v1"
+}
